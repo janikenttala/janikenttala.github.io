@@ -1,0 +1,37 @@
+url: https://janikenttala.github.io/web/
+baseurl: /production
+
+# Site settings
+title: Jani's home
+email:
+description: "Jani Kenttälä's non-work(ish) page.'"
+
+
+# Team names, titles and social links
+people:
+- name: Jani Kenttälää
+  pic: janikenttala.png
+  position: Free
+  social:
+    - title: twitter
+      url:  https://twitter.com/janikenttala
+    - title: google-plus
+      url: https://plus.google.com/+JaniKenttälä
+    - title: instagram
+      url: https://www.instagram.com/janikenttala/
+    - title: github
+      url: https://github.com/janikenttala
+    #- title: facebook
+    #  url: #
+    #- title: stack-overflow
+    #  url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Oulu
+
+# Build settings
+markdown: kramdown
+permalink: pretty
