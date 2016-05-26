@@ -8,25 +8,30 @@ description: "Jani Kenttälä's non-work(ish) page.'"
 
 # Team names, titles and social links
 people:
-- name: Jani Kenttälää
+- name: Jani Kenttälä
   pic: janikenttala.png
   position: Free
   social:
     - title: twitter
-      url:  https://twitter.com/janikenttala
-    - title: google-plus
-      url: https://plus.google.com/+JaniKenttälä
+      url: https://twitter.com/janikenttala
+    - title: linkedin
+      url: https://www.linkedin.com/in/janikenttala
     - title: instagram
-      url: https://www.instagram.com/janikenttala/
+      url: https://www.instagram.com/janikenttala
     - title: github
       url: https://github.com/janikenttala
+    - title: google-plus
+      url: https://plus.google.com/+JaniKentt%C3%A4l%C3%A4
+
     #- title: facebook
     #  url: #
     #- title: stack-overflow
     #  url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-
+social:
+  - title: github
+    url: http://github.com/janikenttala
 # Postal address (add as many lines as necessary)
 address:
   - line: Oulu
